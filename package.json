@@ -7,6 +7,9 @@
     "type": "git",
     "url": "https://github.com/ypear/userbase"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "corestore": "^6.15.13",
     "@ypear/forks": "file:../forks",
